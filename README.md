@@ -131,7 +131,7 @@ Violations may result in legal action.
 **Ansh Gupta**  
 Full-Stack Developer · Entrepreneur  
 
-🌐 Portfolio: https://anshvortex.bio.link  
+🌐 Portfolio: https://anshvortex.me
 📩 Telegram: @highoncodes  
 📸 Instagram: @anshvortex  
 
