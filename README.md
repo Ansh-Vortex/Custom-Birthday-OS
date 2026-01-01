@@ -1,4 +1,4 @@
-# 🎂 Annie OS — Premium Birthday Experience Protocol
+# 🎂 Annie OS — Premium Birthday Experience Protocol ( ONLY FOR DESKTOP )
 
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
